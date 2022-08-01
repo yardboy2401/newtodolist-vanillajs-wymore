@@ -1,4 +1,4 @@
-# newtodolist-vanillajs-wymore
+# Newtodolist-vanillajs-wymore
 
 ## Your Task
 The task is to build a new todo list app that contains the ability to set individual items for each todo list that is created. These individual items can be marked as completed as they are finished. Each list of items for a given todo and each todo can both be removed from the app.
